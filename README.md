@@ -9,7 +9,6 @@ This profile is where I'll be sharing projects, experiments, coursework, and thi
 
 ## Tools & Tech
 - Python
-- Git & GitHub
 - HTML & CSS
 - Data Structures & Algorithms
 - Artificial Intelligence
